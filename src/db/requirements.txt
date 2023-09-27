@@ -1,0 +1,7 @@
+cfnresponse  # needed by the lambda function
+urllib3<2    # needed by the lambda function
+pymysql
+alembic==1.7.5
+SQLAlchemy==1.4.31
+psycopg2-binary==2.9.3
+sqlalchemy-utils
